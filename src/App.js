@@ -1,13 +1,11 @@
-import { Typography } from "@material-tailwind/react";
+
 
 function App() {
   return (
-    <div className="App">
- <Typography className="text-[red]">
-  phong lox
- </Typography>
+ <div className="bg-sky-950">
+  <h1 className="">Hello</h1>
+ </div>
 
-    </div>
   );
 }
 
